@@ -1,0 +1,2 @@
+The verbs considered are: VB VBD VBG VBN VBP VBZ
+Average number of verbs per sentence in the overall corpus: 3.773108030040439
